@@ -17,7 +17,7 @@
 > 问题是我提交的代码，运行速度不快</br>
 
 前序+中序：</br>
-![image](https://user-images.githubusercontent.com/47679525/114023995-19379c00-98a6-11eb-84f0-a342aabdf373.png)
-</br>
+![image](https://user-images.githubusercontent.com/47679525/114023995-19379c00-98a6-11eb-84f0-a342aabdf373.png)</br>
+
 后序+中序</br>
 ![image](https://user-images.githubusercontent.com/47679525/114024038-28b6e500-98a6-11eb-9134-358c57815c01.png)
