@@ -12,7 +12,7 @@ class Solution {
         return subFunction(nums, 0, target);
     }
 
-    //dp 数组
+    //dp 数组 实现剪枝
     HashMap<String, Integer> dp = new HashMap<>();
 
     private int subFunction(int[] nums, int i, int res) {
