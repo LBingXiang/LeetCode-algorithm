@@ -10,3 +10,8 @@
 #### 迭代 + dp table
 > 说实话，对LeetCode的提交感觉很迷，这个时间消耗存在一定的误差，但迭代应该比递归更快一些
 ![image](https://user-images.githubusercontent.com/47679525/115811486-5fead180-a422-11eb-924f-57795ecad55c.png)
+
+#### 迭代 + dp table + 状态压缩
+> 时间消耗减少了，应该是加入了边界问题。 但LeetCode的提交内存消耗确实很迷，状态压缩后应该从O(m * n)到了O(min(n * m))的
+![image](https://user-images.githubusercontent.com/47679525/115853074-55006300-a45b-11eb-98fa-b705c8c01439.png)
+
