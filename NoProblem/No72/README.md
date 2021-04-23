@@ -4,5 +4,5 @@
 > 
 
 #### 递归 + dp table
-> 可以看到时间复杂度，空间复杂度不是很有，而且递归需要隐式的维护一个栈，所有本方法的空间其实为 栈 + dp table
+> 可以看到时间复杂度，空间复杂度不是很好，而且递归需要隐式的维护一个栈，所有本方法的空间其实为 栈 + dp table
 ![image](https://user-images.githubusercontent.com/47679525/115809340-7db63780-a41e-11eb-85b5-79a86ccea32b.png)
