@@ -15,3 +15,7 @@
 > 时间消耗减少了，应该是加入了边界问题。 但LeetCode的提交内存消耗确实很迷，状态压缩后应该从O(m * n)到了O(min(n * m))的
 ![image](https://user-images.githubusercontent.com/47679525/115853074-55006300-a45b-11eb-98fa-b705c8c01439.png)
 
+最优提交截图
+![image](https://user-images.githubusercontent.com/47679525/115854183-93e2e880-a45c-11eb-9341-962c10d985d2.png)
+
+
